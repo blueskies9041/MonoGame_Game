@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{FF559BF3-F56D-4B4B-8241-E9979A923CF3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KBS_Game", "ConsoleApplication1\KBS_Game.csproj", "{FF559BF3-F56D-4B4B-8241-E9979A923CF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
